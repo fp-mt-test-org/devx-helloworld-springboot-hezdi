@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-hezdi.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  namespace: devx-helloworld-springboot-hezdi-dev
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-hezdi-docker-dev-local/devx-helloworld-springboot-hezdi
+    tag: 0.0.1-SNAPSHOT
